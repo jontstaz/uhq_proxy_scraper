@@ -8,3 +8,6 @@ Finds and verifies fresh, high-quality HTTP/HTTPS/SOCKS4/SOCKS5 proxies and save
 4. Select which type(s) of proxy/proxies you want (HTTP, HTTPS, SOCKS4 and/or SOCKS5)
 5. Select whether you want to fetch proxies only from specific countries, eg. US, CA, AU (2-character country code)
 6. Determine whether to save the proxies to a text file or just output the list to the terminal in real-time as each proxy is verified
+
+### Screenshot
+![terminal-screenshot](screenshot.png)
